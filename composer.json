@@ -1,0 +1,20 @@
+{
+    "name": "AskeTIC/businessPlan",
+    "type": "library",
+    "description": "Manage business plans in an easy way",
+    "keywords": ["gasto", "inversion", "recurso", "venta", "compra", "resultado", "ejercicio", "movimiento", "business"],
+    "homepage": "https://github.com/AskeTIC/businessPlan",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": ["Jon Esteban","Nestor Martinez"],
+            "email": ["jonmultimedia@gmail.com","eslivion@gmail.com"],
+            "homepage": "https://github.com/AskeTIC",
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AskeTIC\\Businessplan\\": "/"
+        }
+    }
+}
